@@ -40,6 +40,21 @@
 
 - 🎓 3rd-year Computer Science with a concentration in Human-Computer Interaction and minoring in Psychology at the University of Calgary
 - 💞 Passionate about how humans and technology interact
+- Currently, I am looking for an internship to further my technical knowledge!
+
+<div id="toc" align="none">
+  <ul style="list-style: none">
+    <summary>
+      <h3>My Interests 💡💛</h3>
+    </summary>
+  </ul>
+</div>
+
+- UX/UI Design
+- Software Development
+- Front-End Development 
+- Product Design/Management
+- Data Analysis/Development
 
 ---
 
