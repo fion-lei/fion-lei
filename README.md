@@ -18,7 +18,7 @@
 <div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
-      <p>Connect with me here!<p>
+      <p>Connect with me here! ⬇️<p>
     </summary>
   </ul>
 </div>
@@ -50,9 +50,61 @@ Past Projects:
 - RevRentals - Mobile Motorcycle Rental App
   - [Front-End](https://github.com/aeMyst/RevRentals/)
   - [Back-End](https://github.com/fion-lei/RevRentals-backend)
- 
+
+ ---
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>My Tech Stack 💻✨</h2>
+    </summary>
+  </ul>
+</div>
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50"/>
+<img width="20" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="20" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50"/>
+  <img width="20" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50"/>
+  <img width="20" />
   
-<!--
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="50"/>
+   <img width="20" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50"/>
+   <img width="20" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="50"/>
+   <img width="20" />
+   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="50"/>
+   <img width="20" />
+   
+   
+   <!--
 **fion-lei/fion-lei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
