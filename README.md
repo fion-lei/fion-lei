@@ -28,6 +28,21 @@
 <a href="https://www.linkedin.com/in/fionlei/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fionlei/" height="30" width="40" /></a>
 </p>
 
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <p>Browse my portfolio! ⬇️</p>
+    </summary>
+    <!-- Add your portfolio link below -->
+    <li>
+      <a href="https://fionlei.framer.website/" target="_blank">Click here to visit my portfolio</a>
+    </li>
+  </ul>
+</div>
+
+
+
+
 --- 
 
 <div id="toc" align="center">
